@@ -1,29 +1,43 @@
-.text{
-
+<--! en tête -->
+header{ 
+  background-color:#9BB5B7;
+  text-align: center;
 }
-
+<--! paragraphe -->
 p {
-  padding: 5px;
-  text-align: center;
-  z-index: 1;
-}
-
-.title {
-
-  text-align: center;
-
-}
-
+  padding: 20px;
+  
+  text-align:center;
+   }  
+<--! contents  HTML -->
+body{
+  color:black;
+  background-color:#216369;
+  }
+  
 h2 {
   text-align: center;
+  background-color:#294B4E ;
 }
 
 .fonction {
   font-weight: normal;
-  background-color: grey;
+  background-color: white;
+
+
+
 }
 
 .raccourcis {
   font-weight: bolder;
   background-color:lightgrey;
+ 
+
 }
+.para {
+margin: center;
+background-color:#61959A;
+
+}
+
+
