@@ -17,3 +17,13 @@ p {
 h2 {
   text-align: center;
 }
+
+.fonction {
+  font-weight: normal;
+  background-color: grey;
+}
+
+.raccourcis {
+  font-weight: bolder;
+  background-color:lightgrey;
+}
