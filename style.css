@@ -1,20 +1,20 @@
-<--! en tête -->
+/* en tête */
 header{ 
   background-color:#9BB5B7;
   text-align: center;
 }
-<--! paragraphe -->
+/* paragraphe */
 p {
-  padding: 20px;
+  padding: 15px;
   
   text-align:center;
    }  
-<--! contents  HTML -->
+/* contents  HTML */
 body{
   color:black;
   background-color:#216369;
   }
-  
+/* sous title */
 h2 {
   text-align: center;
   background-color:#294B4E ;
